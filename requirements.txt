@@ -1,0 +1,20 @@
+# ML & Data
+scikit-learn==1.3.2
+xgboost==2.0.3
+pandas==2.1.3
+numpy==1.26.2
+joblib==1.3.2
+
+# Web Framework
+flask==2.3.3
+flask-cors==4.0.0
+
+# Database
+sqlalchemy==2.0.23
+pymysql==1.1.0
+
+# Groq API
+groq==0.5.0
+
+# Misc
+gunicorn==21.2.0  # Optional: for production WSGI server
